@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background: url(https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/09/horoscope-1601230361.jpg) center / cover no-repeat;
+    height: 98vh;
+}
+button{
+    margin: 2em 0;
+    width: 30em;
+    height: 4em;
+    background-color: #63849E;
+    color:rgb(29, 85, 109) ;
+}
+button:hover{
+    background:rgb(29, 85, 109)  ;
+    color: #63849E;
+}
+input{
+    margin-top: 17em;
+    width: 35em;
+    height: 3em;
+}
+#erg{
+    color: white;
+    padding-top: 3em;
+}
+
